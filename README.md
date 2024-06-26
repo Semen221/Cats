@@ -1,1 +1,2 @@
 # Cats
+Just type $cat

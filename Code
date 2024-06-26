@@ -71,7 +71,7 @@ async def cat(ctx):
             if i == 2:
                 await ctx.send('Шанс-4%')
     elif Bibor == 100 and Bibor >= 99:
-        with open('images/cool.jpg', 'rb') as f:
+        with open('images/cool.webp', 'rb') as f:
             picture = discord.File(f)
         for i in range (3):
             if i == 1:
